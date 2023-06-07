@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "3YVysgpWvZQIGXi809ooJJluN3F4QLx7AQprSe5lQTU=",
+  "Source": "DateCalc",
+  "BasePath": "_content/DateCalc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DateCalc\\wwwroot",
+      "Source": "DateCalc",
+      "ContentRoot": "C:\\Users\\Igor Martic\\source\\repos\\DateCalc\\DateCalc\\wwwroot\\",
+      "BasePath": "_content/DateCalc",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Igor Martic\\source\\repos\\DateCalc\\DateCalc\\wwwroot\\index.html",
+      "SourceId": "DateCalc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Igor Martic\\source\\repos\\DateCalc\\DateCalc\\wwwroot\\",
+      "BasePath": "_content/DateCalc",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Igor Martic\\source\\repos\\DateCalc\\DateCalc\\wwwroot\\script.js",
+      "SourceId": "DateCalc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Igor Martic\\source\\repos\\DateCalc\\DateCalc\\wwwroot\\",
+      "BasePath": "_content/DateCalc",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\Igor Martic\\source\\repos\\DateCalc\\DateCalc\\wwwroot\\styles.css",
+      "SourceId": "DateCalc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Igor Martic\\source\\repos\\DateCalc\\DateCalc\\wwwroot\\",
+      "BasePath": "_content/DateCalc",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}
